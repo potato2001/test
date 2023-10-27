@@ -5,12 +5,7 @@ hieu1
 hieu3123
 89328432099
 
-<<<<<<< HEAD
-jdsfjsdlfalfasjlfdss
-
-321384302989890
-=======
 jdsfjsdlfalfasjlfd
 
 312312312321
->>>>>>> 60a2a3ad0a35d279510ca9f1d8b601101e8d3cdb
+lan cuoi 1
