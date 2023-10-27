@@ -8,8 +8,4 @@ hieu3123
 jdsfjsdlfalfasjlfd
 
 312312312321
-<<<<<<< HEAD
-lan cuoi 1
-=======
 lan cuoi
->>>>>>> 2669680eecaa03920c31243f82e8a41c4e7ae148
